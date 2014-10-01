@@ -15,13 +15,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Catalyst::Plugin::Moostash::Base
 
 =head1 VERSION
 
-version v0.1.0
+version v0.1.1
 
 =head2 ctx
 

@@ -6,7 +6,7 @@ use strict;
 use MRO::Compat;
 use Module::Load;
 
-use version 0.77; our $VERSION = version->declare('v0.1.0');
+use version 0.77; our $VERSION = version->declare('v0.1.1');
 
 # ABSTRACT: Provides Moose interface for stash
 
@@ -32,13 +32,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Catalyst::Plugin::Moostash - Provides Moose interface for stash
 
 =head1 VERSION
 
-version v0.1.0
+version v0.1.1
 
 =head1 DESCRIPTION
 
