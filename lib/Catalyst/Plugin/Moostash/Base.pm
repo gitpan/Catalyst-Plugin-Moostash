@@ -23,7 +23,7 @@ Catalyst::Plugin::Moostash::Base
 
 =head1 VERSION
 
-version v0.1.1
+version v0.1.2
 
 =head2 ctx
 
